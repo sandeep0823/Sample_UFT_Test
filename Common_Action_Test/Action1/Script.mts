@@ -1,2 +1,0 @@
-﻿msgbox "Hello Git"
-
